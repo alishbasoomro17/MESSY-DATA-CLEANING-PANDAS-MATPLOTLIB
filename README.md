@@ -16,6 +16,4 @@ TECH STACK USED
 Download the libraries using `pip install library` command.
 A PLOT VIEW OF VISUAL (GIVEN IN ZIP FOLDER)
 
-![Plot View](C:\Users\user\MyPythonProject\pnpvisual.png)
-
 **HAPPY DATA CLEANING!**
