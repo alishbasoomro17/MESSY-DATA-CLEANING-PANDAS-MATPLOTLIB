@@ -1,22 +1,21 @@
 
-<div style="background:"blue">
-  
-<b># MESSY-DATA-CLEANING-PANDAS</b>
-<p>This project is about messy data cleaning for an customer call center who wanted to know the phone numbers of customers whom they need to call 
-Here is complete transformation of messy data to cleaner one for better understanding </p>
-<i>THE EXCEL FILE IS GIVEN DOWNLOAD THE ZIP FOLDER </i>
-<b>WHAT WILL YOU FIND IN ZIP FOLDER</b>
-<ul>
-  <li>Customer call excel file (file need cleaning) </li>
-    <li>Cleaned data excel file  (file cleaned) </li>
-    <li>Paying and non Paying Customers Line Plot </li>
-</ul>
-<h2><i>TECH STACK USED</i></h2>
-<ul>
-  <li>Python: Pandas,Matplotlib</li>
-  download the libraries using pip install library command 
-</ul>
-<b>A PLOT VIEW OF VISUAL(GIVEN IN ZIP FOLDER)</b>
-<img src="C:\Users\user\MyPythonProject\pnpvisual.png"/>
-<b>HAPPY DATA CLEANING !</b>
-</div>
+# MESSY-DATA-CLEANING-PANDAS
+
+This project is about messy data cleaning for a customer call center that wanted to identify the phone numbers of customers to call.
+
+THE EXCEL FILE IS GIVEN DOWNLOAD THE ZIP FOLDER
+
+ WHAT WILL YOU FIND IN ZIP FOLDER
+- Customer call excel file (file needing cleaning)
+- Cleaned data excel file (file cleaned)
+- Paying and non Paying Customers Line Plot
+
+TECH STACK USED
+- Python: Pandas, Matplotlib
+
+Download the libraries using `pip install library` command.
+A PLOT VIEW OF VISUAL (GIVEN IN ZIP FOLDER)
+
+![Plot View](C:\Users\user\MyPythonProject\pnpvisual.png)
+
+**HAPPY DATA CLEANING!**
